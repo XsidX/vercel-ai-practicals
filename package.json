@@ -1,0 +1,22 @@
+{
+  "name": "vercel-ai-practicals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0",
+  "dependencies": {
+    "@ai-sdk/google": "^1.2.19",
+    "ai": "^4.3.16",
+    "dotenv": "^16.5.0",
+    "zod": "^3.25.67"
+  },
+  "devDependencies": {
+    "tsx": "^4.20.3"
+  }
+}
